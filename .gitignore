@@ -1,5 +1,5 @@
 .DS_Store
 .idea
 *.iml
-src/META-INF/MANIFEST.MF
+src/META-INF/
 out/
